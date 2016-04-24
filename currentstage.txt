@@ -1,0 +1,4 @@
+Currently we are in stage 1
+Working on getting the bot to connect to the official bot. (not undersanding the whole official discord bot things...)
+Once we get the API we can get rid of the music bot and start programing
+Maybe we can use some of the parts in your bot!
